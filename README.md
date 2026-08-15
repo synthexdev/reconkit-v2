@@ -23,7 +23,7 @@ Actualmente incluye diferentes funciones relacionadas con reconocimiento de red,
 Cloná el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/ReconKit.git
+git clone https://github.com/synthexdev/reconkit-v2.git
 cd reconkit-v2
 ```
 
