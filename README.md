@@ -24,7 +24,7 @@ Cloná el repositorio:
 
 ```bash
 git clone https://github.com/TU-USUARIO/ReconKit.git
-cd ReconKit
+cd reconkit-v2
 ```
 
 Instalá las dependencias:
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Ejecutá el archivo principal:
 
 ```bash
-python3 ReconKit.py
+python3 reconkit.py
 ```
 
 ## Estructura
